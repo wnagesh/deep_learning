@@ -1,6 +1,6 @@
 *.pdf
 datasets
-images
+image
 *.txt
 output
 data
